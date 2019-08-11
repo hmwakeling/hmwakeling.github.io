@@ -14,7 +14,7 @@ description              : &description "Ph.D. Student"
 url                      : https://HannahWakeling.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HannahWakeling.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "H. M. Wakeling"
-  avatar           : "me.png"
+  avatar           : "me.jpg"
   bio              : "Ph.D. Student in High Energy Particle Physics"
   location         : "Montreal, Quebec"
   employer         :
