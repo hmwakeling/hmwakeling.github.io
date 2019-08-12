@@ -9,6 +9,5 @@ location: "Montreal, Quebec"
 ---
 
 PHYS350 Electromagnetism responsibilities:
-
 * Marking and LaTex homework solutions
 * Office Hours

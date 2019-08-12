@@ -9,6 +9,5 @@ location: "Montreal, Quebec"
 ---
 
 PHYS232 Heat & Waves responsibilities:
-
 * Marking and LaTex homework solutions
 * Office hours
