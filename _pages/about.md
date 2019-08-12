@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hannah Wakeling
+About Me
 =====
 
 Hello! I'm a physics Ph.D. student, originally from the U.K. I currently study High Energy Particle Physics at McGill University. I am primarily focussed on the decay B to D(*) tau nu, which is a high profile decay due to it's current contention with the Standard Model of Particle Physics!
