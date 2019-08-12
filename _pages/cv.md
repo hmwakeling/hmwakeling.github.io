@@ -9,32 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+As this website is still in creation, please see my [LinkedIn](https://www.linkedin.com/in/hannah-wakeling-8a594a94/) for a complete cv, or email me at [hannah.wakeling@physics.mcgill.ca](hannah.wakeling@physics.mcgill.ca) for a (specialised) copy.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sci. in Physics, Royal Holloway University of London, 2017
 
-Work experience
+Work experience 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016: Research Intern
+  * McGill University
+  * Duties included: 
+  * Supervisor: Professor S. Lovejoy
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding
+  * Python
+  * C++
+  * Unix
+* Leadership
+* Team work
+* Report Writing
+  * LaTex
+  * Grammar and spell checking
 
 Publications
 ======
@@ -56,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
