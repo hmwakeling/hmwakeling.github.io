@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+
   - title: "Presentations"
     url: /talks/
 
@@ -14,6 +17,3 @@ main:
 #        
 #  - title: "Blog"
 #    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/

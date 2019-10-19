@@ -9,30 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-As this website is still in creation, please see my [LinkedIn](https://www.linkedin.com/in/hannah-wakeling-8a594a94/) for a complete cv, or email me at [hannah.wakeling@physics.mcgill.ca](hannah.wakeling@physics.mcgill.ca) for a (specialised) copy.
+Please see my [LinkedIn](https://www.linkedin.com/in/hannah-wakeling-8a594a94/) for a complete CV, or email me at [hannah dot wakeling at physics dot mcgill dot ca](hannah.wakeling@physics.mcgill.ca) for a (specialised) copy.
 
 Education
 ======
+* Ph.D in Particle Physics (In Progress), McGill University, 
 * M.Sci. in Physics, Royal Holloway University of London, 2017
 
-Work experience 
-======
-* Summer 2016: Research Intern
-  * McGill University
-  * Duties included: 
-  * Supervisor: Professor S. Lovejoy
-  
 Skills
 ======
-* Coding
-  * Python
+* Programming
   * C++
+  * Jupyter Notebooks
+  * Python
   * Unix
+  * Bash scripts etc.
+  * Cern's ROOT program
 * Leadership
 * Team work
 * Report Writing
   * LaTex
   * Grammar and spell checking
+* Social media management
+* Website management
+* Events organisation
 
 Publications
 ======
