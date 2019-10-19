@@ -36,6 +36,9 @@ Skills
 
 Publications
 ======
+Belle II Qualified Author
+
+None yet, but acknowledged for undergraduate work in:
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -46,7 +49,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Assistantships
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -54,4 +57,5 @@ Teaching
   
 Service and leadership
 ======
-* 
+* Women in Physics Canada Conference 2019 Organizational Committee Member
+* McGill Graduate Association of Physics Students Executive Committee Member
