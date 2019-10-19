@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-#About Me
-#=====
-
 Hello! I'm a high energy particle physics student at McGill University. I am primarily focussed on the decay B to D(*) tau nu, which is a high profile decay due to it's current contention with the Standard Model of Particle Physics!
 
 Research Interests
