@@ -1,7 +1,7 @@
 ---
 title: 'How to get emacs back in your terminal after upgrading to macOS Catalina'
 date: 2019-11-12
-permalink: /posts/2019/11/blog-post-5/
+permalink: /portfolio/2019/11/blog-post-5/
 tags:
   - macOS Catalina
   - emacs
