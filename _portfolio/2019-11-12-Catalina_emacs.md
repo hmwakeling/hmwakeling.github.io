@@ -9,8 +9,6 @@ tags:
   - terminal
 ---
 
-### How to get emacs back in your terminal after upgrading to macOS Catalina.
-
 So you've upgraded to macOS, but things have changed. Your trusty old emacs is no longer bundled in the operating system and you know ALL of the shortcuts and just don't want to change to vim (ugh).
 
 Luckily, the fix is simple!
