@@ -47,15 +47,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching Assistantships
+Teaching Assistantships and Coordinator Positions
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Coordinatorships
-======
-  <ul>{% for post in site.coordinator %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
