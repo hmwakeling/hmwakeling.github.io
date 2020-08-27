@@ -13,8 +13,8 @@ Please see my [LinkedIn](https://www.linkedin.com/in/hannah-wakeling-8a594a94/) 
 
 Education
 ======
-* Ph.D in Particle Physics (In Progress), McGill University, 
-* M.Sci. in Physics, Royal Holloway University of London, 2017
+* Ph.D in Particle Physics (In Progress), McGill University, 2017-2021
+* M.Sci. in Physics, Royal Holloway University of London, 2013-2017
 
 Skills
 ======
@@ -37,8 +37,6 @@ Skills
 Publications
 ======
 Belle II Qualified Author
-
-None yet, but acknowledged for undergraduate work in:
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -58,4 +56,6 @@ Teaching Assistantships
 Service and leadership
 ======
 * Women in Physics Canada Conference 2019 Organizational Committee Member
-* McGill Graduate Association of Physics Students Executive Committee Member
+* McGill Graduate Association of Physics Students Executive Committee Member 2018-2020
+* Women in Physics McGill Committee Member 2017-2020
+* Equity, Diversity and Inclusion, McGill Physics Committee Member 2020-current
