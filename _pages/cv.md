@@ -52,7 +52,13 @@ Teaching Assistantships
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Coordinatorships
+======
+  <ul>{% for post in site.coordinator %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Service and leadership
 ======
 * Women in Physics Canada Conference 2019 Organizational Committee Member
