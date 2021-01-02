@@ -11,9 +11,9 @@ title                    : "H. M. Wakeling"
 title_separator          : "-"
 name                     : &name "H. M. Wakeling"
 description              : &description "Ph.D. Student"
-url                      : https://HannahWakeling.github.io
+url                      : https://hmwakeling.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "HannahWakeling.github.io"
+repository               : "hmwakeling.github.io"
 teaser                   : "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
