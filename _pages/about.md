@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "H. M. Wakeling"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a high energy particle physics student at McGill University. I am primarily focussed on the decay B to D(*) ell nu, which is a high profile decay due to it's current contention with the Standard Model of Particle Physics!
+Hello! I’m a high energy particle physics student at McGill University. I am primarily focussed on the decay B to D(*) ell nu, which is a high profile decay due to it’s current contention with the Standard Model of Particle Physics.
 
-Research Interests
+Summary
 -----
-* Rare Decays with Missing Energy at Belle II (B Meson Factory), Tsukuba, Japan
-* Axion (Dark Matter) Detection at DEAP3600, Sudbury, Canada
-* Women in Physics (WiP), LGBTQ+ and Equity, Diversity and Inclusivity in STEMM
-* Outreach/Science Communication
-* Practicing Physics & Justice
+* Ph.D. Research: A decay with missing energy at the Belle II experiment (a B Meson Factory), Tsukuba, Japan
+* Masters Research: Dark matter (axion & ALP) detection at the DEAP3600 detector, Sudbury, Canada
+
+Interests:
+* The environment and ecology
+* Equity, diversity and inclusivity in STEMM
+* Outreach & science communication
+* Practicing physics & justice
+* Teaching & tutoring
 
 Contact
 -----
