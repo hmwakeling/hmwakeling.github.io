@@ -6,7 +6,7 @@ date: 2021-02-07
 
 paperurl: 'https://arxiv.org/abs/2102.04606'
 citation: 'Diversity + Inclusion at Belle II: Where We Are, What We've Done and Where We Want To Be'
-    author={H.M. Wakeling, S.A. De La Motte, M. Barrett, K. Kinoshita}
+    author={H.M. Wakeling, S.A. De La Motte, M. Barrett, K. Kinoshita},
     year={2021},
         eprint={2102.04606},
 	    archivePrefix={arXiv},

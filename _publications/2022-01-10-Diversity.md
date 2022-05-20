@@ -6,7 +6,7 @@ date: 2022-01-10
 
 paperurl: 'https://arxiv.org/abs/2205.08580'
 citation: 'Diversity and inclusion activities in Belle II'
-    author={H.M. Wakeling, S.A. De La Motte, M. Barrett, E. Prencipe, (The Belle II Collaboration)}
+    author={H.M. Wakeling, S.A. De La Motte, M. Barrett, E. Prencipe, (The Belle II Collaboration)},
     year={2022},
         eprint={2205.08580},
 	    archivePrefix={arXiv},
