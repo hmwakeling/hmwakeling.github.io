@@ -1,16 +1,16 @@
 ---
 title: "Diversity and inclusion activities in Belle II"
 collection: publications
-permalink: /publication/2021-02-05-Diversity.md
+permalink: /publication/2021-02-05-Diversity
 date: 2021-02-05
 
 paperurl: 'https://arxiv.org/abs/2102.04195'
 citation: 'Diversity and inclusion activities in Belle II'
-    author={H.M. Wakeling, S.A. De La Motte, M. Barrett, K. Kinoshita}
+    author={H.M. Wakeling, S.A. De La Motte, M. Barrett, K. Kinoshita, (The Belle II Collaboration)}
     year={2021},
         eprint={2102.04195},
 	    archivePrefix={arXiv},
-	        primaryClass={hep-ex}
+	        primaryClass={physics.soc-ph}
 		}~'
 ---
 

@@ -42,10 +42,17 @@ Skills
 
 Publications
 ======
-Belle II Qualified Author
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Belle II Qualified Author
+* _Combined analysis of Belle and Belle II data to determine the CKM angle $\phi_3$ using $B^+ D(K^0 S h^ + h^-)h^+$ decays_ - F. Abudinén et al. (Belle II Collaboration) Journal of High Energy Physics __volume 2022, 63__ (2022)
+* _Precise Measurement of the $D^0$ and $D^+$ Lifetimes at Belle II_ - F. Abudinén et al. (Belle II Collaboration) Phys. Rev. Lett. 127, 211801 (2021)
+* _Search for $B \rightarrow K^+ \nu \nu$ Decays Using an Inclusive Tagging Method at Belle II_ - F. Abudinén et al. (Belle II Collaboration) Phys. Rev. Lett. 127, 181802 (2021)
+* _Search for Axionlike Particles Produced in $e^+e^-$ Collisions at Belle II_ - F. Abudinén et al. (Belle II Collaboration) Phys. Rev. Lett. 125, 161806 (2020)
+* _Search for an Invisibly Decaying $Z’$ Boson at Belle II in $e^+e^- \rightarrow \mu^+\mu^-(e^±\mu^∓)$ Plus Missing Energy Final States_ - I. Adachi et al. (Belle II Collaboration) Phys. Rev. Lett. 124, 141801 (2020)
+* _Measurement of the integrated luminosity of the Phase 2 data of the Belle II experiment_ - F. Abudinén et al. (Belle II Collaboration) Chinese Phys. C 44 021001 (2020)
   
 Talks
 ======

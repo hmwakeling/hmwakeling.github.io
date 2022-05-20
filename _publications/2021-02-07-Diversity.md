@@ -1,7 +1,7 @@
 ---
 title: "Diversity + Inclusion at Belle II: Where We Are, What We've Done and Where We Want To Be"
 collection: publications
-permalink: /publication/2021-02-07-Diversity.md
+permalink: /publication/2021-02-07-Diversity
 date: 2021-02-07
 
 paperurl: 'https://arxiv.org/abs/2102.04606'
