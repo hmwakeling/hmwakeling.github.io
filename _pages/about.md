@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-A high energy particle physics Ph.D. student at McGill University. Primarily focussed on the decay B to D(*) ell nu, which is a high profile decay due to it’s current contention with the Standard Model of Particle Physics.
+I am a high energy particle physics Ph.D. student at McGill University. I work remotely at the Belle II Collaboration, Tsukuba, Japan. Belle II is a B meson factory, which means it produces many B meson particle which analysts like myself can study. My work is on the decay of a B meson to a D(*) meson, a lepton and its corresponding neutrino. This is a high profile decay due to contribution to a variable called R(D(*)). This variable has been measured experimentally and is currently in contention with the theoretical value calculated in the Standard Model of particle physics. This could indicate that the Standard Model needs revising, possibly to include new particles such as the leptoquark!
 
 Summary
 -----
