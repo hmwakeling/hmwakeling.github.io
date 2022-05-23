@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a high energy particle physics Ph.D. student at McGill University. I work remotely at the Belle II Collaboration, Tsukuba, Japan. Belle II is a $B$ meson factory, which means it produces many $B$ meson particle which analysts like myself can study. My work is on the decay of a $B$ meson to a $D^{(\*)}$ meson, a lepton and its corresponding neutrino. This is a high profile decay due its to contribution to a variable called $R(D^{(\*)})$. This variable has been measured experimentally and is currently in contention with the theoretical value calculated in the Standard Model of particle physics. This could indicate that the Standard Model needs revising, possibly to include new particles such as the leptoquark!
+I am a high energy particle physics Ph.D. student at McGill University, working remotely at the Belle II Collaboration, Tsukuba, Japan. Belle II is a $B$ meson factory i.e. it produces many $B$ meson particles which analysts, like myself, can study. In my work I study the decay of a $B$ meson to a $D^{(\*)}$ meson, a lepton and its corresponding neutrino. This is a high profile particle decay due its to contribution to a variable called $R(D^{(\*)})$. Physicists have calculated this value theoretically and measured it experimentally, however the two values don't match! Either theory or experiment is incorrect. If experiment is wrong, we need to fix the issues and measure $R(D^{(\*)})$ more precisely. If theory is wrong, i.e. our model for calculating $R(D^{(\*)})$ is wrong, that means that there are effects theory does not account for. This then means there could be more particles that exist outside of the ones we know today, including exciting Dark Matter candidates! My work contributes to measuring $R(D^{(\*)})$ more precisely, to conclude whether it is theory that is incorrect or previous experimental results that were not precise enough.
 
 Summary
 -----
 * Ph.D. Research: A decay with missing energy at the Belle II experiment (a $B$ Meson Factory), Tsukuba, Japan
 * Masters Research: Dark matter (axion & ALP) detection at the DEAP3600 detector, Sudbury, Canada
-
-Extra-curriculars:
-* The environment and ecology
-* Equity, diversity and inclusivity in STEMM
-* Outreach & science communication
-* Practicing physics & justice
-* Teaching & tutoring
+* Extra-curricular interests:
+  * The environment & entomology
+  * Equity, diversity and inclusivity in STEMM
+  * Practicing physics & justice
+  * Teaching, tutoring and science communication
+  * Volleyball & rollerskating
+  * Saxophone & piano
 
 Contact
 -----

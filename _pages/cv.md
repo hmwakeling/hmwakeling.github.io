@@ -47,7 +47,7 @@ Publications
   {% endfor %}</ul>
   
 Belle II Qualified Author
-* _Combined analysis of Belle and Belle II data to determine the CKM angle $\phi_3$ using $B^+ D(K^0 S h^ + h^-)h^+$ decays_ - F. Abudinén et al. (Belle II Collaboration) Journal of High Energy Physics __volume 2022, 63__ (2022)
+* _Combined analysis of Belle and Belle II data to determine the CKM angle $\phi_3$ using $B^+ D(K^0 S h^ + h^-)h^+$ decays_ - F. Abudinén et al. (Belle II Collaboration) Journal of High Energy Physics volume 2022, 63 (2022)
 * _Precise Measurement of the $D^0$ and $D^+$ Lifetimes at Belle II_ - F. Abudinén et al. (Belle II Collaboration) Phys. Rev. Lett. 127, 211801 (2021)
 * _Search for $B \rightarrow K^+ \nu \nu$ Decays Using an Inclusive Tagging Method at Belle II_ - F. Abudinén et al. (Belle II Collaboration) Phys. Rev. Lett. 127, 181802 (2021)
 * _Search for Axionlike Particles Produced in $e^+e^-$ Collisions at Belle II_ - F. Abudinén et al. (Belle II Collaboration) Phys. Rev. Lett. 125, 161806 (2020)
@@ -71,5 +71,6 @@ Service and leadership
 * Women in Physics Canada Conference 2019 Organizational Committee Member
 * Belle II Diversity and Inclusion Group 2018-2022
 * McGill Graduate Association of Physics Students Executive Committee Member 2018-2021
+  * MGAPS President 2019-2021
 * Women in Physics McGill Committee Member 2017-2020
 * Equity, Diversity and Inclusion, McGill Physics Committee Member 2020-2021

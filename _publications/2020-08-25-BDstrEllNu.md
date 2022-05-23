@@ -1,5 +1,5 @@
 ---
-title: "Measurement of the semileptonic ${B}^0 \to D^{*} \ell \nu_{\ell}$ branching fraction with fully reconstructed $B$ meson decays and 34.6 fb$^{-1}$ of Belle II data."
+title: "Measurement of the semileptonic ${B}^0$ to $D^{*} l nu_l$ branching fraction with fully reconstructed $B$ meson decays and 34.6 fb$^{-1}$ of Belle II data."
 collection: publications
 permalink: /publication/2020-08-25-BDstrEllNu
 date: 2020-08-25

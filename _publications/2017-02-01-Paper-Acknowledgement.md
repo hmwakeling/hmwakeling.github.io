@@ -1,6 +1,5 @@
 ---
-title: "Harnessing butterflies: theory and practice of the Stochastic Seasonal to Interannual Prediction System (StocSIPS)\
-, In Nonlinear Advances in Geosciences"
+title: "Harnessing butterflies: theory and practice of the Stochastic Seasonal to Interannual Prediction System (StocSIPS), In Nonlinear Advances in Geosciences"
 collection: publications
 permalink: /publication/2017-02-01-Paper-Acknowledgement
 excerpt: 'Acknowledged in this paper for undergraduate work.'
