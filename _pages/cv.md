@@ -13,7 +13,7 @@ Please see my [LinkedIn](https://www.linkedin.com/in/hmwakeling/) for a complete
 
 Education
 ======
-* Ph.D in Particle Physics (In Progress), McGill University, 2017-2022
+* Ph.D in Particle Physics (In Progress), McGill University, 2017-2023
 * M.Sci. in Physics, Royal Holloway University of London, 2013-2017
 
 Skills
@@ -35,8 +35,8 @@ Skills
   * LaTex
   * Grammar and spell checking
 * Social media management
-  * Event organisation
   * LGBTQ+ posts for the Belle II Collaboration
+* Event organization
 * Website management
 * Teaching
 
@@ -46,13 +46,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Belle II Qualified Author
-* _Combined analysis of Belle and Belle II data to determine the CKM angle $\phi_3$ using $B^+ D(K^0 S h^ + h^-)h^+$ decays_ - F. Abudinén et al. (Belle II Collaboration) Journal of High Energy Physics volume 2022, 63 (2022)
-* _Precise Measurement of the $D^0$ and $D^+$ Lifetimes at Belle II_ - F. Abudinén et al. (Belle II Collaboration) Phys. Rev. Lett. 127, 211801 (2021)
-* _Search for $B \rightarrow K^+ \nu \nu$ Decays Using an Inclusive Tagging Method at Belle II_ - F. Abudinén et al. (Belle II Collaboration) Phys. Rev. Lett. 127, 181802 (2021)
-* _Search for Axionlike Particles Produced in $e^+e^-$ Collisions at Belle II_ - F. Abudinén et al. (Belle II Collaboration) Phys. Rev. Lett. 125, 161806 (2020)
-* _Search for an Invisibly Decaying $Z’$ Boson at Belle II in $e^+e^- \rightarrow \mu^+\mu^-(e^±\mu^∓)$ Plus Missing Energy Final States_ - I. Adachi et al. (Belle II Collaboration) Phys. Rev. Lett. 124, 141801 (2020)
-* _Measurement of the integrated luminosity of the Phase 2 data of the Belle II experiment_ - F. Abudinén et al. (Belle II Collaboration) Chinese Phys. C 44 021001 (2020)
+Belle II Qualified Author:
+For a full list of accredations, please go to <u><a href="inspirehep.net/authors/1753264">this link</a>.</u>
   
 Talks
 ======
@@ -73,4 +68,4 @@ Service and leadership
 * McGill Graduate Association of Physics Students Executive Committee Member 2018-2021
   * MGAPS President 2019-2021
 * Women in Physics McGill Committee Member 2017-2020
-* Equity, Diversity and Inclusion, McGill Physics Committee Member 2020-2021
+* Equity, Diversity and Inclusion, McGill Physics Committee Member 2020-2021B
