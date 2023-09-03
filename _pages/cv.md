@@ -11,10 +11,14 @@ redirect_from:
 
 Please see my [LinkedIn](https://www.linkedin.com/in/hmwakeling/) for a complete CV, or email me at [hannah dot wakeling at physics dot mcgill dot ca](hannah.wakeling@physics.mcgill.ca) for a (specialised) copy.
 
+Employment
+======
+* Postdoc in Particle Accelerator Environmental Sustainability, University of Oxford, 2023-25
+
 Education
 ======
-* Ph.D in Particle Physics (In Progress), McGill University, 2017-2023
-* M.Sci. in Physics, Royal Holloway University of London, 2013-2017
+* Ph.D in Particle Physics (In Progress), McGill University, 2017-23
+* M.Sci. in Physics, Royal Holloway University of London, 2013-17
 
 Skills
 ======
