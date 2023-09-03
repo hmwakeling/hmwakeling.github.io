@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "H. M. Wakeling"
 title_separator          : "-"
 name                     : &name "H. M. Wakeling"
-description              : &description "Ph.D. Student"
+description              : &description "Postdoctoral Research Assistant"
 url                      : https://hmwakeling.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hmwakeling.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "H. M. Wakeling"
-  avatar           : "me2.jpeg"
-  bio              : "Ph.D. Student in High Energy Particle Physics"
-  location         : "Montreal, Quebec"
+  avatar           : "HWakeling_circular.png"
+  bio              : "Postdoctoral Research Assistant in Particle Accelerator Environmental Sustainability"
+  location         : "Oxford, UK"
   employer         :
   pubmed           : 
   googlescholar    : 
