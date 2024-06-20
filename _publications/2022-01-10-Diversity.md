@@ -5,7 +5,7 @@ permalink: /publication/2022-01-10-Diversity
 date: 2022-01-10
 
 paperurl: 'https://arxiv.org/abs/2205.08580'
-citation: 'H.M. Wakeling, S.A. De La Motte, M. Barrett, E. Prencipe, (The Belle II Collaboration), 2022: Diversity and inclusion activities in Belle II, arXiv:2205.08580'
+
 ---
 
 These proceedings accompany the Belle II talk in the Science in Society parallel session delivered during Lepton Photon 2021. In this talk we present updated membership statistics using 10 years of data with a diversity and inclusion lens, and we present Belle II's most recent activities to aid and improve diversity and inclusion. This report has the intention to bring light to the social working environment and population representation within our collaboration and, by extension, within high energy physics.

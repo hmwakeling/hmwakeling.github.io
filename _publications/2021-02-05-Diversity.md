@@ -5,7 +5,7 @@ permalink: /publication/2021-02-05-Diversity
 date: 2021-02-05
 
 paperurl: 'https://arxiv.org/abs/2102.04195'
-citation: 'H.M. Wakeling, S.A. De La Motte, M. Barrett, K. Kinoshita, (The Belle II Collaboration), 2021: Diversity and inclusion activities in Belle II, arXiv:2102.04195' 
+
 
 ---
 
