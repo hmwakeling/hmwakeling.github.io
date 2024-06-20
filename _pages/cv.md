@@ -27,7 +27,7 @@ Publications
   {% endfor %}</ul>
   
 Belle II Qualified Author:
-For a full list of accredations, please go to <u><a href="inspirehep.net/authors/1753264">this link</a>.</u>
+For a list of Belle II accredations, please go to <u><a href="https://inspirehep.net/literature?sort=mostrecent&size=250&page=1&q=collaboration%3ABelle-II">this link</a>.</u>
   
 Talks
 ------
