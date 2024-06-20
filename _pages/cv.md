@@ -12,16 +12,16 @@ redirect_from:
 Please see my [LinkedIn](https://www.linkedin.com/in/hmwakeling/) for a complete CV, or email me at [hannah dot wakeling at physics dot mcgill dot ca](hannah.wakeling@physics.mcgill.ca) for a (specialised) copy.
 
 Employment
-======
+------
 * Postdoc in Particle Accelerator Environmental Sustainability, University of Oxford, 2023-25
 
 Education
-======
+------
 * Ph.D in Particle Physics (In Progress), McGill University, 2017-23
 * M.Sci. in Physics, Royal Holloway University of London, 2013-17
 
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -30,19 +30,19 @@ Belle II Qualified Author:
 For a full list of accredations, please go to <u><a href="inspirehep.net/authors/1753264">this link</a>.</u>
   
 Talks
-======
+------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching Assistantships and Coordinator Positions
-======
+------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Service and leadership
-======
+------
 * Sustainable HEP 2024 Workshop Organizer
 * Women in Physics Canada Conference 2019 Organizational Committee Member
 * Belle II Diversity and Inclusion Group 2018-2022
