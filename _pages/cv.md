@@ -22,7 +22,7 @@ Education
 
 Publications
 ------
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -31,13 +31,13 @@ For a list of Belle II accredations, please go to <u><a href="https://inspirehep
   
 Talks
 ------
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching Assistantships and Coordinator Positions
 ------
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
