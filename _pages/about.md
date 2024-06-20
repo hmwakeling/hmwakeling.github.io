@@ -23,7 +23,7 @@ Summary
 * Masters Research: Dark matter (axion & ALP) detection at the DEAP3600 detector, Sudbury, Canada
 * Extra-curricular interests:
   * The environment & entomology
-  * Equity, diversity and inclusivity in STEMM
+  * Equity, diversity and inclusivity in STEM
   * Practicing physics & justice
   * Teaching, tutoring and science communication
   * Volleyball, cycling & rollerskating
