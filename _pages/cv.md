@@ -20,30 +20,6 @@ Education
 * Ph.D in Particle Physics (In Progress), McGill University, 2017-23
 * M.Sci. in Physics, Royal Holloway University of London, 2013-17
 
-Skills
-======
-* Programming
-  * C++
-  * Jupyter Notebooks
-  * Python
-  * Linux
-  * Bash
-  * Cern's ROOT software
-* Leadership
-  * Conference organisation
-  * Workshop organisation and facilitation
-* Team work
-  * McGill Graduate Society executive member
-* Report Writing
-  * Paper publication
-  * LaTex
-  * Grammar and spell checking
-* Social media management
-  * LGBTQ+ posts for the Belle II Collaboration
-* Event organization
-* Website management
-* Teaching
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -67,6 +43,7 @@ Teaching Assistantships and Coordinator Positions
 
 Service and leadership
 ======
+* Sustainable HEP 2024 Workshop Organizer
 * Women in Physics Canada Conference 2019 Organizational Committee Member
 * Belle II Diversity and Inclusion Group 2018-2022
 * McGill Graduate Association of Physics Students Executive Committee Member 2018-2021
