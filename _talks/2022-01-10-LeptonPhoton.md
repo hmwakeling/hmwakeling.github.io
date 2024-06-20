@@ -7,6 +7,9 @@ date: 2022-01-10
 location: "Online, Manchester"
 ---
 
+A talk on behalf of the Belle II Collaboration on the latest diversity and inclusion activities from Belle II experiment.
+
+
 Abstract:
 Belle II is a particle physics collaboration that has over 1000 people
 from institutions in 26 countries who work together to achieve its
