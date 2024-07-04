@@ -3,7 +3,7 @@ title: "Measurement of the semileptonic ${B}^0$ to $D^{*} l nu_l$ branching frac
 collection: publications
 permalink: /publication/2020-08-25-BDstrEllNu
 date: 2020-08-25
-
+venue: "ArXiv"
 paperurl: 'https://arxiv.org/abs/2008.10299'
 ---
 

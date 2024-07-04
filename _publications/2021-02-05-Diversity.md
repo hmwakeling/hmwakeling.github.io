@@ -3,7 +3,7 @@ title: "Diversity and inclusion activities in Belle II"
 collection: publications
 permalink: /publication/2021-02-05-Diversity
 date: 2021-02-05
-
+venue: "ArXiv"
 paperurl: 'https://arxiv.org/abs/2102.04195'
 
 

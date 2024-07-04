@@ -3,7 +3,7 @@ title: "Diversity and Inclusion at Belle II: Where We Are, What We've Done and W
 collection: publications
 permalink: /publication/2021-02-07-Diversity
 date: 2021-02-07
-
+venue: "ArXiv"
 paperurl: 'https://arxiv.org/abs/2102.04606'
 
 ---
