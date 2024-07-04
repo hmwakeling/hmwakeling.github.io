@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+<p> This page includes my publications, talks I have given, calendars I curate and other resources.
+
 <h2>Publications</h2>
 
 <p>For more information about each publication, click on the title.</p>
@@ -16,7 +18,7 @@ author_profile: true
 {% endif %}
 
 <ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-single.html %}
 {% endfor %}</ul>
 
 
