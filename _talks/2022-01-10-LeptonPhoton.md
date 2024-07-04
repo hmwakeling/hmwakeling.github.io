@@ -3,8 +3,9 @@ title: "Diversity and Inclusion Activities in Belle II."
 collection: talks
 type: "Conference Talk"
 permalink: /talks/2022-01-10-LeptonPhoton
+venue: "Lepton Photon 2022"
 date: 2022-01-10
-location: "Online, Manchester"
+location: "Manchester, UK (Remote)"
 ---
 
 A talk on behalf of the Belle II Collaboration on the latest diversity and inclusion activities from Belle II experiment.

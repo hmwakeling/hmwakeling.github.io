@@ -3,8 +3,9 @@ title: "Is sustainable HEP possible? The answer’s probably no."
 collection: talks
 type: "Conference Talk"
 permalink: /talks/2022-06-01-SustainableHEP
+venue: "Sustainable HEP 2022"
 date: 2021-06-01
-location: "Virtual"
+location: "Remote"
 ---
 
 A flash-talk given at the first edition of Sustianable HEP.

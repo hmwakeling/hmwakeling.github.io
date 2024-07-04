@@ -3,6 +3,7 @@ title: "Latest semileptonic results from Belle II"
 collection: talks
 type: "Conference Talk"
 permalink: /talks/2022-02-15-WinterInstitute
+venue: "Winter Institute"
 date: 2022-02-15
 location: "Lake Louise, AB, Canada"
 ---
