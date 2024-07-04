@@ -84,9 +84,9 @@ author:
   avatar           : "HWakeling_circular.png"
   bio              : "Postdoctoral Research Assistant in Particle Accelerator Environmental Sustainability"
   location         : "Oxford, UK"
-  employer         :
+  employer         : "John Adams Institute for Accelerator Science & ISIS Neutron and Muon Source"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=mgWuWZIAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     : 
   uri              :
@@ -115,6 +115,7 @@ author:
   weibo            :
   xing             :
   youtube          :
+  website	   : "https://www.physics.ox.ac.uk/our-people/wakeling"
   wikipedia        :
 
 
