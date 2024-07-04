@@ -17,7 +17,7 @@ Employment
 
 Education
 ------
-* Ph.D in Particle Physics (In Progress), McGill University, 2017-23
+* Ph.D in Particle Physics, McGill University, 2017-23
 * M.Sci. in Physics, Royal Holloway University of London, 2013-17
 
 Publications and Talks
@@ -42,4 +42,4 @@ Service and leadership
 * McGill Graduate Association of Physics Students Executive Committee Member 2018-2021
   * MGAPS President 2019-2021
 * Women in Physics McGill Committee Member 2017-2020
-* Equity, Diversity and Inclusion, McGill Physics Committee Member 2020-2021B
+* Equity, Diversity and Inclusion, McGill Physics Committee Member 2020-2021
