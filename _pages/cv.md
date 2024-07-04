@@ -20,22 +20,15 @@ Education
 * Ph.D in Particle Physics (In Progress), McGill University, 2017-23
 * M.Sci. in Physics, Royal Holloway University of London, 2013-17
 
-Publications
+Publications and Talks
 ------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+Please see [Portfolio](/portfolio/).
+
 Belle II Qualified Author:
 For a list of Belle II accredations, please go to <u><a href="https://inspirehep.net/literature?sort=mostrecent&size=250&page=1&q=collaboration%3ABelle-II">this link</a>.</u>
-  
-Talks
-------
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching Assistantships and Coordinator Positions
+    
+Teaching and Coordinator Positions
 ------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
