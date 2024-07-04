@@ -1,7 +1,7 @@
 ---
 title: 'Exploring the Sustainability Efforts of Europe's Facilities'
 date: 2024-02-20
-permalink: /posts/2024/02/facilities_trip/
+permalink: /posts/2024_02_facilities_trip
 tags:
 ---
 
