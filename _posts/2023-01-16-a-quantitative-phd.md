@@ -13,10 +13,13 @@ I started my Ph.D. on September 1st 2017 and today, February 27th 2023, marks th
 5 years, 5 months and 26 days later, what have I accomplished?
 
 Hours worked roughly:
+
 Typically I was able to take weekends and like to think that I was able to stick to roughly 8 hour work days, however I'm quite certain I had some 10-12 hour workdays and other days that looked more like 4 hours.
 
 Vacation taken:
+
 47 days officially booked off.
+
 Assuming that I should have taken 15 days of vacation a year, 47/75 days was not a good rate. HOWEVER, during the initial months of the COVID-19 pandemic, I believe I made up for these missing vacation days. Not that necessary mental health days count as vacation in a time where it felt like the world was about to end. I was keeping tabs on family, friends, myself and my animal crossing island inhabitants.
 
 Super computer CPU hours used: I have still to sift through this data.
@@ -24,7 +27,9 @@ Super computer CPU hours used: I have still to sift through this data.
 Thesis words per day
 --------------------
 Total: 36263
+
 108 active days writing
+
 335.8 words per day with a peak of 668 words written in one day.
 
-images/thesis_word_count.png
+Plot of thesis progress.<br/><img src='/images/thesis_word_count.png'>
