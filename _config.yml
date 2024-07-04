@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &hmwsteam
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "HWakeling_circular.png"
   bio              : "Postdoctoral Research Assistant in Particle Accelerator Environmental Sustainability"
   location         : "Oxford, UK"
-  employer         : "John Adams Institute for Accelerator Science & ISIS Neutron and Muon Source"
+  employer         : "JAI & ISIS-II"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mgWuWZIAAAAJ&hl=en&oi=ao"
   email            :
@@ -110,7 +110,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "hmwakeling"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
