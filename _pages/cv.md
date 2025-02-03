@@ -13,7 +13,7 @@ Please see my [LinkedIn](https://www.linkedin.com/in/hmwakeling/) for a complete
 
 Employment
 ------
-* Postdoc in Particle Accelerator Environmental Sustainability, University of Oxford, 2023-25
+* Postdoc in Particle Accelerator Environmental Sustainability, University of Oxford, 2023-current
 
 Education
 ------
@@ -25,7 +25,7 @@ Publications and Talks
 
 Please see [Portfolio](/portfolio/).
 
-Belle II Qualified Author:
+Belle II Qualified Author 2019-2024:
 For a list of Belle II accredations, please go to <u><a href="https://inspirehep.net/literature?sort=mostrecent&size=250&page=1&q=collaboration%3ABelle-II">this link</a>.</u>
     
 Teaching and Coordinator Positions
@@ -36,6 +36,7 @@ Teaching and Coordinator Positions
 
 Service and leadership
 ------
+* Sustainable HEP 2025 Conference Organizer
 * Sustainable HEP 2024 Workshop Organizer
 * Women in Physics Canada Conference 2019 Organizational Committee Member
 * Belle II Diversity and Inclusion Group 2018-2022
