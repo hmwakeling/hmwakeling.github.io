@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Please see my [LinkedIn](https://www.linkedin.com/in/hmwakeling/) for a complete CV, or email me at [hannah dot wakeling at physics dot mcgill dot ca](hannah.wakeling@physics.mcgill.ca) for a (specialised) copy.
+Please see my [LinkedIn](https://www.linkedin.com/in/hmwakeling/) for a complete CV, or email me at [hannah dot wakeling at physics dot oxford dot ac dot uk for a (specialised) copy.
 
 Employment
 ------
-* Postdoc in Particle Accelerator Environmental Sustainability, University of Oxford, 2023-current
+* Postdoc in Particle Accelerator Environmental Sustainability, John Adams Institute for Accelerator Science, University of Oxford, 2023-current
 
 Education
 ------
