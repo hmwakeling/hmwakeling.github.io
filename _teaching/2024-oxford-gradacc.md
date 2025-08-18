@@ -8,4 +8,4 @@ date: 2024-02-14
 location: "Oxford, UK"
 ---
 
-A guest lecturer for the Graduate Accelerator Physics Course at John Adams Institute for Accelerator Science at the University of Oxford.
+A guest lecturer for the [Graduate Accelerator Physics Course](https://www.adams-institute.ac.uk/graduate-lectures#collapse4118101) at John Adams Institute for Accelerator Science at the University of Oxford.
