@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please see my [LinkedIn](https://www.linkedin.com/in/hmwakeling/) for a complete CV, or email me at [hannah dot wakeling at physics dot oxford dot ac dot uk for a (specialised) copy.
+Please see my [LinkedIn](https://www.linkedin.com/in/hmwakeling/) for a complete CV, or email me at 'hannah dot wakeling at physics dot oxford dot ac dot uk' for a (specialised) copy.
 
 Employment
 ------
