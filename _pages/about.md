@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research assistant, specialising in particle accelerator environmental sustainability at the [John Adams Institute for Accelerator Science](https://www.adams-institute.ac.uk/), University of Oxford. I work jointly with the [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk/Pages/home.aspx) at the [Rutherford Appleton Laboratory](https://www.ukri.org/who-we-are/stfc/facilities/rutherford-appleton-laboratory/) in the UK.
+I am a postdoctoral research assistant, specialising in particle accelerator environmental sustainability at the [John Adams Institute for Accelerator Science](https://www.adams-institute.ac.uk/), University of Oxford.
 
-I spend the majority of my research time working on evaluating the environmental impact of [ISIS-II, the proposed upgrade to the ISIS project](https://www.isis.stfc.ac.uk/Pages/ISIS-II.aspx), from construction to decommission, via a Life Cycle Assessment (LCA). In this I identify the main sources of greenhouse gas emissions of key accelerator components, I assess the carbon footprint of proposed technologies, and I consider other environmental impacts such as a raw material extraction, transport, and impacts on biodiversity. I also then work to reduce the environmental impact of building, operating and decommissioning large accelerator facilities. 
+In the first 3 years of my postdoc, I worked jointly with the [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk/Pages/home.aspx) at the [Rutherford Appleton Laboratory](https://www.ukri.org/who-we-are/stfc/facilities/rutherford-appleton-laboratory/) in the UK. I spent the majority of my research time working on evaluating the environmental impact of [ISIS-II](https://www.isis.stfc.ac.uk/Pages/ISIS-II.aspx) -- the proposed upgrade to the ISIS project -- from construction to decommission, via a Life Cycle Assessment (LCA). In this I identified the main sources of greenhouse gas emissions of key accelerator components, I assessed the carbon footprint of proposed technologies, and I considered other environmental impacts such as a raw material extraction, transport, and impacts on biodiversity. I also then worked to reduce the environmental impact of building, operating and decommissioning large accelerator facilities. 
 
 I am also a member of the [Sustainable HECAP+](https://hecap.eco) initiative. This grassroots initiative has many ongoing projects. In March 2025 we published ["Environmental sustainability in basic research. A perspective from HECAP+"](https://iopscience.iop.org/article/10.1088/1748-0221/20/03/P03012), which may also be [endorsed](https://indico.cern.ch/event/1293733/) by supporters.
 
@@ -21,7 +21,7 @@ I completed my Ph.D. in high energy particle physics at McGill University, Montr
 Work with me
 -----
 * [Summer Internship Opportunities](/posts/2025-04-01-summer-intern/)
-* Join the Sustainable HEPAP+ Initiative
+* Join the Sustainable HECAP+ Initiative
 
 Summary
 -----
