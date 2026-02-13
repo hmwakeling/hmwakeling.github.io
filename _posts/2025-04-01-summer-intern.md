@@ -10,7 +10,7 @@ tags:
 
 “Environmental Sustainability R&D for Particle Accelerators” summer internship opportunity for undergraduate physics students from UK universities!
 
-Please follow this link for details, eligibility and how to apply: (https://www.physics.ox.ac.uk/research/subdepartment/particle-physics/particle-physics-summer-internship-programme](https://www.physics.ox.ac.uk/research/subdepartment/particle-physics/particle-physics-summer-internship-programme)
+Please follow this link for details, eligibility and how to apply: [https://www.physics.ox.ac.uk/research/subdepartment/particle-physics/particle-physics-summer-internship-programme](https://www.physics.ox.ac.uk/research/subdepartment/particle-physics/particle-physics-summer-internship-programme)
 
 Advert (also found at the link):
 
