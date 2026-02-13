@@ -1,5 +1,5 @@
----A
-title: "Exploring the Sustainability Efforts of Europe's Facilities"
+---AA
+title: 'Exploring the sustainability efforts of facilities in Europe'
 date: 2024-02-20
 permalink: /posts/2024-02-facilities-trip
 tags:
