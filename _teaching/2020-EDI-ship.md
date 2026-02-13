@@ -1,5 +1,5 @@
 ---
-title: "Physics McGill Equity, Diversity and Inclusion Graduate Coordinator"
+title: "McGill Physics Equity, Diversity and Inclusion graduate coordinator"
 collection: coordinator
 type: "Coordinatorship"
 permalink: /coordinator/2020-EDI-ship
@@ -8,4 +8,4 @@ date: 2020-08-01
 location: "Montreal, Quebec"
 ---
 
-Graduate Coordinator for the McGill Physics EDI committee. Responsibilities include: creating events (online due to COVID-19), maintaining the EDI website, and keeping social media up to date and active.
+Graduate coordinator for the McGill Physics EDI committee. Responsibilities include: creating events (online due to COVID-19), maintaining the EDI website, and keeping social media up to date and active.

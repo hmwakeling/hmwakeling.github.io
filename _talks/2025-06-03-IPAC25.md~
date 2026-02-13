@@ -1,0 +1,13 @@
+---
+title: "Developing a Life Cycle Inventory for a future large accelerator facility"
+collection: talks
+type: "Conference Talk"
+permalink: /talks/2025-04-11-openLCA/
+venue: "ufaFabrik"
+date: 2025-04-11
+location: "Berlin, Germany"
+---
+
+The ISIS-II Neutron and Muon Source, proposed as the successor to the ISIS Neutron and Muon Source at the Rutherford Appleton Laboratory in the UK, presents a unique opportunity to evaluate environmental impacts during a large accelerator facility's early feasibility and design stages. By identifying potential impacts at this stage, environmental sustainability strategies for impact reduction and mitigation can be integrated into the design process.
+
+A pioneering simplified Life Cycle Assessment (LCA) of the entire facility was conducted using OpenLCA software, the ecoinvent allocation cut-off by classification model and unit process database, and the ReCiPE 2016 midpoint (H) Life Cycle Impact Assessment (LCIA) methodology. Developing the Life Cycle Inventory (LCI) for such a complex and nascent project was a significant challenge, given the vast array of infrastructure, subsystems, components, and parts—many without prior LCAs. This presentation will discuss the strategies employed, modelling approaches, assumptions made, and uncertainties evaluated to construct a workable LCI for this first-of-its-kind LCA, which has provided critical insights into the environmental implications of design choices for a future large accelerator facility.
