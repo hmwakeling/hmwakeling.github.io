@@ -1,5 +1,5 @@
 ---
-title: "Co-supervisor for an ungraduate summer project"
+title: "Co-supervisor: undergraduate summer project"
 collection: coordinator
 type: "Co-supervisor"
 permalink: /coordinator/2022-07-01

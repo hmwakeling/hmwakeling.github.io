@@ -1,5 +1,5 @@
 ---
-title: "McGill Physics Equity, Diversity and Inclusion graduate coordinator"
+title: "Coordinator: McGill Physics Equity, Diversity and Inclusion"
 collection: coordinator
 type: "Coordinatorship"
 permalink: /coordinator/2020-EDI-ship

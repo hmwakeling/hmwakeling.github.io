@@ -1,5 +1,5 @@
 ---
-title: "PHYS350 Electromagnetism"
+title: "Teaching assistant: PHYS350 Electromagnetism"
 collection: teaching
 type: "Teaching Assistantship"
 permalink: /teaching/2018-fall-teaching-1

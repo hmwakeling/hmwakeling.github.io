@@ -1,5 +1,5 @@
 ---
-title: "JAI Graduate Accelerator Physics: Sustainability (Lecturer)"
+title: "Lecturer: JAI Graduate Accelerator Physics: Sustainability"
 collection: teaching
 type: "Lecturer"
 permalink: /teaching/2024-oxford-gradacc

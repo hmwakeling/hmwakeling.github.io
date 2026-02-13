@@ -1,5 +1,5 @@
 ---
-title: "3rd year undergraduate nuclear lab demonstrator"
+title: "Demonstrator: 3rd year undergraduate nuclear labs"
 collection: teaching
 type: "Demonstrator"
 permalink: /teaching/2023-oxford-nuclear

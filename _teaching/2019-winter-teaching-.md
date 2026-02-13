@@ -1,5 +1,5 @@
 ---
-title: "PHYS232 Heat & Waves"
+title: "Teaching assistant: PHYS232 Heat & Waves"
 collection: teaching
 type: "Teaching Assistantship"
 permalink: /teaching/2019-winter-teaching-1
