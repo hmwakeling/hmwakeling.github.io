@@ -1,4 +1,4 @@
----
+---A
 title: "Exploring the Sustainability Efforts of Europe's Facilities"
 date: 2024-02-20
 permalink: /posts/2024-02-facilities-trip
@@ -20,3 +20,10 @@ Finally, for the last stop of my trip, I’d like to zoom in on a historic relat
 I had the opportunity to visit two of Grenoble's research facilities, the Institut Laue-Langevin (ILL) and the European Synchrotron Radiation Facility (ESRF). From the redesign of some of their laboratories to waste management practices, ILL embodies a commitment to environmental responsibility while pushing the boundaries of scientific excellence. Similarly, my experience at the ESRF left a lasting impression due to the facility's dedication to energy-efficient infrastructure in its recent upgrade and its plans for energy recovery. Throughout my visit, enriching dialogue with researchers and facility staff highlighted the indispensable role of sustainability in scientific research. Against the backdrop of Grenoble's twinning with Oxford, these conversations illuminated the power of international collaboration in addressing global challenges while safeguarding our planet's finite resources.
 
 Over the course of my entire trip, I found that each of these facilities and their approaches to sustainability and groundbreaking research stand as beacons of excellence in the scientific community, working towards a harmonious balance between innovation and environmental responsibility. My journey from Oxford all the way through to Grenoble reinstated within me the transformative potential of collaboration and knowledge exchange across borders; by embracing communication of sustainability in scientific research, we honor the legacy of our predecessors while charting a course towards a more sustainable future.
+
+My key takeaways:
+ - Contributions from all levels of staff are important. For example, competition and awards were showed some success.
+ - Policy (external & internal) affected action more than anything else.
+ - Building sustainability into the facility infrastructure from the start is something they wish they had all done, rather than (sometimes nonnegotiable) retroactive action (specifically waste heat recovery).
+ - Each of the facilities had varying sustainability offices/staff hired specifically for sustainability.
+ - A broad range of efforts ongoing; we should all continue to communicate!
