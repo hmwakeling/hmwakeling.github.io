@@ -9,16 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Please see my [LinkedIn](https://www.linkedin.com/in/hmwakeling/) for a complete CV, or email me at 'hannah dot wakeling at physics dot oxford dot ac dot uk' for a (specialised) copy.
-
-Employment
-------
-* Postdoc in Particle Accelerator Environmental Sustainability, John Adams Institute for Accelerator Science, University of Oxford, 2023-current
-
-Education
-------
-* Ph.D in Particle Physics, McGill University, 2017-23
-* M.Sci. in Physics, Royal Holloway University of London, 2013-17
+* [1 page CV](/assets/pdf/hmw-CV-2026-1-page.pdf)
+* [LinkedIn](https://www.linkedin.com/in/hmwakeling/)
+* Email Hannah at 'hannah dot wakeling at physics dot ox dot ac dot uk' for a (specialised) copy
 
 Publications and Talks
 ------
