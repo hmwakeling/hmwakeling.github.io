@@ -11,22 +11,9 @@ redirect_from:
 
 * [1 page CV](/assets/pdf/hmw-CV-2026-1-page.pdf)
 * [LinkedIn](https://www.linkedin.com/in/hmwakeling/)
-* Email Hannah at 'hannah dot wakeling at physics dot ox dot ac dot uk' for a (specialised) copy
+* Email 'hannah dot wakeling at physics dot ox dot ac dot uk' for a tailored copy
 
-Publications and Talks
-------
-
-Please see [Portfolio](/portfolio/).
-
-Belle II Qualified Author 2019-2024:
-For a list of Belle II accredations, please go to <u><a href="https://inspirehep.net/literature?sort=mostrecent&size=250&page=1&q=collaboration%3ABelle-II">this link</a>.</u>
     
-Teaching and Coordinator Positions
-------
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Service and leadership
 ------
 * Sustainable HEP 2026 Conference Organiser
