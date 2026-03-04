@@ -17,6 +17,8 @@ In the first 3 years of my postdoc, I worked jointly with the [ISIS Neutron and 
 
 I am a member of the [Sustainable High Energy Physics Workshop](https://indico.global/event/4745/), a member of the [Laboratory Directors Group (LDG) Working Group on the Sustainability Assessment of Accelerators](https://ldg.web.cern.ch/working-groups/sustainability-assessment-of-accelerators), and a member of the [Oxford Physics Gender Equity Network Committee](https://www.physics.ox.ac.uk/about-us/equality-diversity-and-inclusion/oxford-physics-gender-equity-network).
 
+I have also supervised students and lecture in particle accelerator sustainability. Please find my [teaching experience here](/teaching/)
+
 I completed my Ph.D. in high energy particle physics at McGill University, Montreal in 2023. In this I worked remotely at the Belle II Collaboration, Japan in an 1000+ strong international collaboration.
 
 
